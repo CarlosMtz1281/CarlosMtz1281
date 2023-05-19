@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Carlos Martinez 👋,</h1>
+<h1 align="center">Hi, I'm Carlos Martinez 👋</h1>
 <h3 align="center">Fullstack Developer currently studyng at Tec de Mty</h3>
 
 - 🔭 I’m currently working on [ICPC and Leetcode Problems](https://github.com/CarlosMtz1281/Leetcode_Problems)
