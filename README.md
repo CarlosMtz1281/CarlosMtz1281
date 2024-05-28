@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓 Currently Studying Computer Science at Tec de Monterrey<br>💻 Web Developer and React Enthusiast<br>📚 Currently Studying Data Structures and Competitive Programing<br>👨🏻‍💻 Aspiring Full stack Engineer<br>🌐 [Conect with me on LinkedIn](https://www.linkedin.com/in/carlosmartinezrdz)
+👨🏻‍🎓 Currently Studying Computer Science at Tec de Monterrey<br>💻 Web Developer and React Enthusiast<br>📚 Currently Studying Data Base technologies<br>👨🏻‍💻 Aspiring Full stack Engineer<br>🌐 [Conect with me on LinkedIn](https://www.linkedin.com/in/carlosmartinezrdz)
 
 
 # 💻 Tech Stack:
